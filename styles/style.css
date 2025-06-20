@@ -390,3 +390,77 @@ header{
     font-weight: 400;
     line-height: 32px;
 }
+
+/* Subscribe Section */
+.subscribe-content{
+    margin: 0 auto;
+    max-width: 1320px;
+    height: 616px;
+    border-radius: 16px;
+    background: rgba(255, 0, 0, 0.05);
+    text-align: center;
+    margin-bottom: 120px;
+    
+}
+
+.subscribe-content img{
+    margin: 80px 0px 46.25px 0px;
+}
+
+.subscribe-title{
+    color: rgb(7, 2, 17);
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+    line-height: 60px;
+    text-align: center;
+    text-transform: capitalize;
+    margin-bottom: 22px;
+}
+
+.subscribe-description{
+    color: rgba(7, 2, 17, 0.6);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    text-align: center;
+    padding: 0 212px;
+    margin-bottom: 48px;
+}
+
+.subscribe-content input[type="email"]{
+    width: 438px;
+    padding: 25px;
+    border-radius: 50px;
+    background: rgb(255, 255, 255);
+
+    color: rgba(7, 2, 17, 0.3);
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 22px;
+
+    border: none;
+    margin-right: -25px;
+
+}
+
+.subscribe-content input[type="Subscribe"]{
+    display: inline-block;
+    width: 210px;
+    padding: 25px;
+    border-radius: 0 50px 50px 0px;
+    background: rgb(255, 0, 0);
+
+    color: rgba(255, 255, 255);
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 22px;
+    text-align: center;
+
+    border: none;
+
+    margin-left: -25px;
+}
