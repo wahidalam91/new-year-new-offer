@@ -289,5 +289,64 @@ header{
     margin-right: 0;
 }
 
+/* Holidays Section */
+.holidays-content{
+    margin: 0 auto;
+    max-width: 1320px;
+    height: 986px;
+    margin-bottom: 120px;
+}
 
+.hc-text{
+    margin: 0 auto;
+    max-width: 1068px;
+    margin-bottom: 64px;
+    text-align: center;
+}
 
+.hc-title{
+    color: rgb(7, 2, 17);
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 29px;
+    margin-bottom: 16px;
+}
+
+.holidays-offer{
+    font-family: Merriweather;
+    font-size: 72px;
+    font-weight: 900;
+    line-height: 91px;
+    letter-spacing: 0%;
+    text-align: center;
+    margin-bottom: 28px;
+}
+
+.holidays-offer span{
+    color: rgb(255, 0, 0);
+}
+
+.hc-description{
+    color: rgba(7, 2, 17, 0.6);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 32px;
+    margin-bottom: 69px;
+}
+
+.hc-offer-images{
+    background-image: url(../assets/images/Rectangle\ 2.png);
+    background-repeat: no-repeat;
+    background-position: bottom;
+
+}
+
+.hc-offer-images{
+    display: flex;
+}
+
+.percentage-img{
+    padding: 77px 40px 280px 177px;
+}
