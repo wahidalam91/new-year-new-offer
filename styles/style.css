@@ -220,3 +220,74 @@ header{
     width: 167px;
     height: 56px;
 }
+
+/* Coming Soon Section */
+
+.coming-soon{
+    max-width: 1320px;
+    height: 463px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: left;
+    margin-bottom: 120px;
+}
+
+.content-1{
+    width: 33%;
+    margin: 104px 0px;
+}
+
+.c1-subtitle{
+    color: rgb(255, 0, 0);
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 29px;
+    margin-bottom: 16px;
+}
+
+.c1-title{
+    color: rgb(7, 2, 17);
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+    line-height: 60px;
+    text-transform: capitalize;
+    margin-bottom: 22px;
+}
+
+.cs-description{
+    color: rgba(7, 2, 17, 0.6);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    margin-bottom: 46px;
+}
+
+.content-2{
+    margin-left: 70px;
+    border: 15px solid rgb(255, 0, 0);
+    border-radius: 50%;
+    padding: 30px;
+}
+
+.content-3{
+    width: 33%;
+    padding-left: 118px;
+    padding-top: 112px;
+}
+
+.c3-year{
+    color: rgb(255, 0, 0);
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 58px;
+    text-align: left;
+    margin-bottom: 16px;
+    margin-right: 0;
+}
+
+
+
